@@ -1,7 +1,7 @@
-~ 👋 hi u just visited an scarce sharmoot 
-> 👀 I’m interested in backend dev.
-< 🌱 I’m currently learning to speak
-= 💞️ I’m looking to collaborate on porno
+- 👋 hi u just visited an scarce sharmoot 
+- 👀 I’m interested in backend dev.
+- 🌱 I’m currently learning to speak
+- 💞️ I’m looking to collaborate on porno
 - 📫 How to reach me trust me u don't want to 
 
 <!---
