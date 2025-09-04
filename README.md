@@ -1,7 +1,7 @@
 <!--
 README.md for Xalty – flashy version with explanatory inline comments.
 These HTML comments clarify the purpose of dynamic elements so future you (or collaborators)
-can tweak things without spelunking through obscure SVG query‑strings or service URLs.
+can tweak things without spelunking through obscure SVG query-strings or service URLs.
 -->
 
 <!-- ============================================================= -->
@@ -13,19 +13,19 @@ can tweak things without spelunking through obscure SVG query‑strings or servi
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=600&color=00FFEE&center=true&vCenter=true&width=435&lines=Welcome+to+Xalty's+Lab!;Dark+Sarcasm+%7C+Gadgetry+%7C+Code" alt="Typing SVG" />
 </h1>
 
-<!-- Portal GIF for Rick‑and‑Morty vibes → feel free to swap width/URL. -->
+<!-- Portal GIF for Rick-and-Morty vibes → feel free to swap width/URL. -->
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="280" alt="portal">
 </p>
 
-<!-- ASCII banner – rendered via <pre> block so alignment stays intact. -->
+<!-- ASCII banner – spells XALTY in block style. -->
 <pre align="center">
-███████╗ █████╗ ██╗     ████████╗██╗   ██╗
-██╔════╝██╔══██╗██║     ╚══██╔══╝╚██╗ ██╔╝
-█████╗  ███████║██║        ██║    ╚████╔╝ 
-██╔══╝  ██╔══██║██║        ██║     ╚██╔╝  
-██║     ██║  ██║███████╗   ██║      ██║   
-╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   
+██╗  ██╗  █████╗  ██╗      ████████╗ ██╗   ██╗
+╚██╗██╔╝ ██╔══██╗ ██║      ╚══██╔══╝ ╚██╗ ██╔╝
+ ╚███╔╝  ███████║ ██║         ██║     ╚████╔╝ 
+ ██╔██╗  ██╔══██║ ██║         ██║      ╚██╔╝  
+██╔╝ ██╗ ██║  ██║ ███████╗    ██║       ██║   
+╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝    ╚═╝       ╚═╝   
 </pre>
 
 <!-- ============================================================= -->
@@ -35,10 +35,10 @@ can tweak things without spelunking through obscure SVG query‑strings or servi
 ## 🧠 About Me
 
 <!-- Keep bullets succinct; markdown line breaks are added via two spaces at EOL. -->
-- 🔭 I’m currently diving into **AI tooling** & ⚡ next‑gen dev experience  
+- 🔭 I’m currently diving into **AI tooling** & ⚡ next-gen dev experience  
 - 🛠️ I build gadgets, occasionally more than I break  
 - 🤖 Favorite quote: *"Sometimes science is more art than science, Morty."*  
-- 💀 **Sarcasm level:** RTS (Real‑Time Sarcasm)
+- 💀 **Sarcasm level:** RTS (Real-Time Sarcasm)
 
 <!-- ============================================================= -->
 <!--                     TECH TOOLBOX BADGES                        -->
